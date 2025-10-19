@@ -1,0 +1,72 @@
+{
+  "gameId": "black",
+  "region": "Unova",
+  "routes": [
+    {
+      "id": "unova-route-1",
+      "gameId": "black",
+      "name": "Route 1",
+      "region": "Unova",
+      "order": 1,
+      "description": "The path from Nuvema Town to Accumula Town"
+    },
+    {
+      "id": "unova-route-2",
+      "gameId": "black",
+      "name": "Route 2",
+      "region": "Unova",
+      "order": 2,
+      "description": "Connects Accumula Town to Striaton City"
+    },
+    {
+      "id": "unova-route-3",
+      "gameId": "black",
+      "name": "Route 3",
+      "region": "Unova",
+      "order": 3,
+      "description": "The path from Striaton City to Nacrene City"
+    },
+    {
+      "id": "wellspring-cave",
+      "gameId": "black",
+      "name": "Wellspring Cave",
+      "region": "Unova",
+      "order": 4,
+      "description": "A cave located off Route 3",
+      "tags": ["cave"]
+    },
+    {
+      "id": "pinwheel-forest-outer",
+      "gameId": "black",
+      "name": "Pinwheel Forest (Outer)",
+      "region": "Unova",
+      "order": 5,
+      "description": "The outer section of Pinwheel Forest",
+      "tags": ["forest"]
+    },
+    {
+      "id": "unova-route-4",
+      "gameId": "black",
+      "name": "Route 4",
+      "region": "Unova",
+      "order": 6,
+      "description": "Desert route connecting to Nimbasa City"
+    },
+    {
+      "id": "unova-route-5",
+      "gameId": "black",
+      "name": "Route 5",
+      "region": "Unova",
+      "order": 7,
+      "description": "Route with a bridge leading to Nimbasa City"
+    },
+    {
+      "id": "unova-route-6",
+      "gameId": "black",
+      "name": "Route 6",
+      "region": "Unova",
+      "order": 8,
+      "description": "Seasonal route near Chargestone Cave"
+    }
+  ]
+}
