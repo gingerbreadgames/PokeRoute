@@ -1,9 +1,0 @@
-{
-  "id": "black",
-  "name": "Pokémon Black",
-  "generation": 5,
-  "region": "Unova",
-  "versions": ["black"],
-  "releaseYear": 2011,
-  "description": "Explore the Unova region in this Gen 5 adventure"
-}
